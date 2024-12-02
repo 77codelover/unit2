@@ -1,0 +1,9 @@
+a = [1,2,3,4,5,6,7]
+#diaplay array...
+print(a)
+#upadte array...
+a[2] = 8
+print(a)
+#slicing array...
+a[0:2] = [11,12]
+print(a)
